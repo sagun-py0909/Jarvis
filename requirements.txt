@@ -1,0 +1,10 @@
+pvporcupine
+pvrecorder
+faster-whisper
+torch
+TTS
+sounddevice
+soundfile
+faiss-cpu
+sentence-transformers
+requests
